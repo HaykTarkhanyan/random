@@ -13,6 +13,7 @@ title: "Introduction to LaTeX"
 - [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
 - [💅Elegant LaTeX 💅](https://www.math.uci.edu/~remote_teaching/uci-books/documentation/elegantbook-en.pdf)
 - [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
+- [Հայերեն LaTeX Overlaf-ում, վիդեո](https://youtu.be/ATk8CJ4OxUU?si=wT5_uK8LaO7Isss4)
 
 **Screenshot/pdf to LaTeX:**
 - [Mathpix Snip](https://mathpix.com/) - Very good one, but free is limited (but it's also not super expensive)
@@ -28,6 +29,7 @@ title: "Introduction to LaTeX"
 - [LaTeX Templates](https://www.latextemplates.com/)
 
 **Project examples in Armenian:**
+- [Խառը, օգտակար](https://www.dropbox.com/scl/fi/uhkeefmvnfwjtzkfn0754/main.tex?rlkey=uzcojsh8ru7hefp0ii2c0h7mt&e=1&dl=0)
 - [Տոպոլոգիա](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
 - [Դիսկրետ գործնական](https://www.overleaf.com/read/gftfchfrcgjh#bb5f43)
 

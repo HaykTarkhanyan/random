@@ -1,4 +1,30 @@
 ---
 title: "Random" 
 ---
-https://www.youtube.com/watch?v=9DGNqnpMpbc
+- Բուհական մաթեմատիկայի մի աշխարհ [նյութեր](https://mathteam.notion.site/)
+- Անվճար Python, մաթեմ, մեքենայական ուսուցման դասընթաց [YouTube](https://www.youtube.com/@MetricAcademy), [Կայք](https://hayktarkhanyan.github.io/python_math_ml_course/), [Telegam](https://t.me/metric_academy)
+- Հայ խմբեր/երաժիշտների [հավաքածու](https://docs.google.com/spreadsheets/d/1rMq3hJ4jcJ6t0G0rmsYICY7XmiLYM7hCxq58cD8XPyE/edit?gid=0#gid=0)
+- https://www.youtube.com/watch?v=9DGNqnpMpbc
+
+<details>
+<summary>Ընտիր յութուբի ալիքների հայերեն թարգմանած վիդեոներ</summary>
+1. Veritasium-ի վիդեոները հայերենով - [Բանական](https://www.youtube.com/@banakan.science)
+2. TedEd և ոչ միայն - [Գիտադարան](https://www.youtube.com/@gitadarann/videos)
+3. ScienceClic և ոչ միայն - [Aree](https://www.youtube.com/@areeeducationalcenter)
+4. Խառը - [Հետաքրքիրը հայերենով](https://www.youtube.com/@interestinginArmenian)
+5. 3blue1brown - [3blue1brown հայերեն](https://www.youtube.com/@3blue1brown12)
+</details>
+
+<details>
+<summary>🫏-ի հետ կապված ասացվածքներ</summary>
+1. Էշը կերել, պոչը մնացել
+2. Էշ մի սատկի, գարուն ա գալիս
+3. Էշը ցեխից հանել
+4. Էշի ականջին քնած
+</details>
+
+<details>
+<summary>1-ին և 10-րդ հարկերից ընկնելու տարբերությունը`</summary>
+10-րդ հարկից - Աաաաա՜, դը'խկ, \\
+1-ին հարկից - Դը'խկ, աաաաա՜
+</details>
