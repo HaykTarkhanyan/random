@@ -8,17 +8,29 @@ title: "Introduction to LaTeX"
 ::: 
 
 # Resources:
-- [Overleaf](https://www.overleaf.com/) - Online LaTeX editor
+**Very good ones:**
 - [Overleaf Learning materials](https://www.overleaf.com/learn), [Learn in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
-- Symbol collections [1](https://wch.github.io/latexsheet), [2](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
-- [Example Project (Տոպոլոգիա)](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
-- [Symbol detection tool](http://detexify.kirelabs.org/classify.html)
-- [Official LaTeX website](https://www.latex-project.org/)
 - [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
+
+**Screenshot/pdf to LaTeX:**
+- [Mathpix Snip](https://mathpix.com/) - Very good one, but free is limited (but it's also not super expensive)
+- [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - Open source
+
+**General links:**
+- [Overleaf](https://www.overleaf.com/) - Online LaTeX editor
+- [Official LaTeX website](https://www.latex-project.org/)
 - [TeX Stack Exchange](https://tex.stackexchange.com/) - Q&A forum for LaTeX users
 - [CTAN](https://www.ctan.org/) - Comprehensive TeX Archive Network
+- Symbol collections [1](https://wch.github.io/latexsheet), [2](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
+- [Symbol detection tool](http://detexify.kirelabs.org/classify.html)
 - [LaTeX Templates](https://www.latextemplates.com/)
+
+**Project examples in Armenian:**
+- [Տոպոլոգիա](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
+- [Դիսկրետ գործնական](https://www.overleaf.com/read/gftfchfrcgjh#bb5f43)
+
+
 
 # Minimal LaTeX Document
 ```latex
@@ -397,6 +409,10 @@ Partial derivative - $\pd{f}{x}$ \\
 ```
 
 # Armenian
+::: {.callout-note}
+[Armtex](https://ctan.org/pkg/armtex?lang=en) 
+Ամպի չափ շատ մերսիներ Vardan Akopian, Serguei Dachian, Arnak Dalalyan-ին։
+:::
 ```latex	
 \documentclass{article}
 \usepackage{armtex}
@@ -408,7 +424,8 @@ Partial derivative - $\pd{f}{x}$ \\
 
 
 # TikZ (plots, figures, etc.)
-[Great video](https://www.youtube.com/watch?v=5jmIHOWpEg0&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&index=6&t=638s)
+- [Great video](https://www.youtube.com/watch?v=5jmIHOWpEg0&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&index=6&t=638s)
+- [TikZ editor](https://tikzcd.yichuanshen.de/) - TikZ editor for diagrams
 ```latex
 \documentclass{article}
 \usepackage{tikz} % add this line to the preamble
