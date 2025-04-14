@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Random",
+    "section": "",
+    "text": "https://www.youtube.com/watch?v=9DGNqnpMpbc",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Random</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html",
+    "href": "latex_tutorial/intro.html",
+    "title": "2  Introduction to LaTeX",
+    "section": "",
+    "text": "3 Intro to LaTeX",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#enumerate-ordered-list",
+    "href": "latex_tutorial/intro.html#enumerate-ordered-list",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.1 Enumerate (ordered list)",
+    "text": "8.1 Enumerate (ordered list)\n\\documentclass{article}\n\\begin{document}\n\\begin{enumerate}\n    \\item First item\n    \\item Second item\n    \\item Third item\n\\end{enumerate}\n\\end{document}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#itemize-unordered-list",
+    "href": "latex_tutorial/intro.html#itemize-unordered-list",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.2 Itemize (unordered list)",
+    "text": "8.2 Itemize (unordered list)\n\\begin{itemize}\n    \\item First item\n    \\item Second item\n    \\item Third item\n\\end{itemize}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#list-with-custom-labels",
+    "href": "latex_tutorial/intro.html#list-with-custom-labels",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.3 List with custom labels",
+    "text": "8.3 List with custom labels\n\\begin{itemize}\n    \\item[$\\star$] First item\n    \\item[$\\bullet$] Second item\n    \\item[$\\circ$] Third item\n\\end{itemize}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#centered-text",
+    "href": "latex_tutorial/intro.html#centered-text",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.4 Centered text",
+    "text": "8.4 Centered text\n\\begin{center}\nCentered text goes here.\n\\end{center}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#quote",
+    "href": "latex_tutorial/intro.html#quote",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.5 Quote",
+    "text": "8.5 Quote\n\\begin{quote}\nThis is a quote.\n\\end{quote}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#verbatim-code-block",
+    "href": "latex_tutorial/intro.html#verbatim-code-block",
+    "title": "2  Introduction to LaTeX",
+    "section": "8.6 Verbatim (code block)",
+    "text": "8.6 Verbatim (code block)\n\\begin{verbatim}\n    \\begin{enumerate}\n        \\item First item\n        \\item Second item\n        \\item Third item\n    \\end{enumerate}\n\\end{verbatim}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#custom-math-operators",
+    "href": "latex_tutorial/intro.html#custom-math-operators",
+    "title": "2  Introduction to LaTeX",
+    "section": "17.1 Custom math operators",
+    "text": "17.1 Custom math operators\n\\documentclass{article}\n\\usepackage{amsmath} % american mathematical society\n\\usepackage{amsthm} % ams theorem\n\n\\DeclareMathOperator{\\R}{\\mathbb{R}} % declare a new math operator\n\\DeclareMathOperator{\\Z}{\\mathbb{Z}} % declare a new math operator\n\\DeclareMathOperator{\\vA}{\\vec{A}} % declare a new math operator\n\n% math operator with input\n\\newcommand{\\pd}[2]{\\frac{\\partial #1}{\\partial #2}} % partial derivative\n\n\n\\begin{document}\nPretty R - $\\R$ \\\\\ncosh - $\\cosh$ \\\\\nVector A - $\\vA$ \\\\\nPartial derivative - $\\pd{f}{x}$ \\\\ \n\\end{document}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#custom-environments",
+    "href": "latex_tutorial/intro.html#custom-environments",
+    "title": "2  Introduction to LaTeX",
+    "section": "17.2 Custom environments",
+    "text": "17.2 Custom environments\n\\documentclass{article}\n\\usepackage{amsmath} % american mathematical society\n\\usepackage{amsthm} % ams theorem\n\n\\newenvironment{sol}{\n    \\textbf{\\textcolor{cyan}{\\textbf{Solution is -&gt;}}}\n}\n\\begin{document}\n\n\\begin{sol}\n    This is a solution.\n\\end{sol}\n\\end{document}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  },
+  {
+    "objectID": "latex_tutorial/intro.html#custom-theorem",
+    "href": "latex_tutorial/intro.html#custom-theorem",
+    "title": "2  Introduction to LaTeX",
+    "section": "17.3 Custom theorem",
+    "text": "17.3 Custom theorem\n\\documentclass{article}\n\\usepackage{amsmath} % american mathematical society\n\n\\usepackage{amsthm} % ams theorem\n\\newtheorem{theorem}{Theorem}[section] % theorem environment\n\\newtheorem{lemma}[theorem]{Lemm} % lemma environment\n\\newtheorem{corollary}[theorem]{Lracum} % corollary environment\n\\newtheorem{proposition}[theorem]{Prop} % proposition environment\n\\newtheorem{definition}[theorem]{Definition} % definition environment\n\\newtheorem{example}[theorem]{Example} % example environment\n\\newtheorem{remark}[theorem]{Remark} % remark environment\n\\newtheorem{exercise}[theorem]{Exercise} % exercise environment\n\n\\begin{document}\n\\begin{theorem}\n    This is a theorem.\n\\end{theorem}\n\\begin{lemma}\n    This is a lemma.\n\\end{lemma}\n\n\\end{document}",
+    "crumbs": [
+      "LaTeX",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"
+    ]
+  }
+]

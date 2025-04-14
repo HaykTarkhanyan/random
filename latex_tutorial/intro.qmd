@@ -1,0 +1,486 @@
+---
+title: "Introduction to LaTeX"
+---
+
+# Intro to LaTeX
+::: {.callout-note}
+Եթե անգլից լավ եք էս նյութը ու վիդեոն կարաք զուտ բաց թողեք, դրած հղումներում շատ ավելի լավ ա բացատրվում։ Կարաք նաև ռուսերենով լիքը նյութեր գտնեք Google, YouTube-ում։
+::: 
+
+# Resources:
+- [Overleaf](https://www.overleaf.com/) - Online LaTeX editor
+- [Overleaf Learning materials](https://www.overleaf.com/learn), [Learn in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+- Symbol collections [1](https://wch.github.io/latexsheet), [2](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
+- [Example Project (Տոպոլոգիա)](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
+- [Symbol detection tool](http://detexify.kirelabs.org/classify.html)
+- [Official LaTeX website](https://www.latex-project.org/)
+- [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
+- [TeX Stack Exchange](https://tex.stackexchange.com/) - Q&A forum for LaTeX users
+- [CTAN](https://www.ctan.org/) - Comprehensive TeX Archive Network
+- [LaTeX Templates](https://www.latextemplates.com/)
+
+# Minimal LaTeX Document
+```latex
+\documentclass{article} 
+% եթե CV սարքեինք, կամ սլայդեր ուրիշ բան կգրեինք article-ի փոխարեն։ 
+% Ցանկը՝ https://www.ctan.org/topic/class
+
+\begin{document}
+Cheese
+% Առաջին դոկումենտ
+% compile բացատրել, Visual Editor
+\end{document}
+``` 
+
+# Adding author, title, and date
+```latex
+\documentclass{article} 
+
+% preamble
+\title{My first LaTeX document}
+\author{Autor Autoryan\thanks{AAA}}
+\date{April 2025} % \date{} - remove the date, \date{today} - current date 
+
+\begin{document}
+\maketitle
+Cheese
+\end{document}
+```
+
+# Sections and subsections, and paragraphs 
+```latex
+\documentclass{article}
+
+\tableofcontents % add this line to generate a table of contents
+\setcounter{secnumdepth}{3} % set the depth of section numbering 
+% (0 - no numbering, 1 - sections only, 2 - sections and subsections, 3 - sections, subsections, and subsubsections)
+
+\begin{document}
+\section{Introduction}
+This is the introduction section.
+\par A paragraph is a block of text separated by a blank line.
+\par This is another paragraph.
+
+\subsection{Background}
+This is the background subsection.
+
+\section{Conclusion}
+This is the conclusion section.
+
+\end{document}
+```
+
+# Environments
+Structure
+```latex
+\begin{environment_name}
+% content
+\end{environment_name}
+```
+
+## Enumerate (ordered list)
+```latex
+\documentclass{article}
+\begin{document}
+\begin{enumerate}
+    \item First item
+    \item Second item
+    \item Third item
+\end{enumerate}
+\end{document}
+```
+## Itemize (unordered list)
+```latex
+\begin{itemize}
+    \item First item
+    \item Second item
+    \item Third item
+\end{itemize}
+```
+## List with custom labels
+```latex
+\begin{itemize}
+    \item[$\star$] First item
+    \item[$\bullet$] Second item
+    \item[$\circ$] Third item
+\end{itemize}
+```
+
+## Centered text
+```latex
+\begin{center}
+Centered text goes here.
+\end{center}
+```
+## Quote
+```latex
+\begin{quote}
+This is a quote.
+\end{quote}
+```
+## Verbatim (code block)
+```latex
+\begin{verbatim}
+    \begin{enumerate}
+        \item First item
+        \item Second item
+        \item Third item
+    \end{enumerate}
+\end{verbatim}
+```
+
+# Text formatting
+```latex
+\documentclass{article}
+\begin{document}
+% cntl b, cntl i, cntl u
+% \\ - new line
+\textbf{Bold text} \\
+\textit{Italic text} \\
+\underline{Underlined text} \\
+
+\textcolor{red}{Red text} \\
+\textcolor{blue}{\textbf{Bold blue text}} \\
+
+\end{document}
+```
+
+# Hyperlinks
+```latex
+\documentclass{article}
+\usepackage{hyperref} % add this line to the preamble
+
+% setup (optional)
+\hypersetup{
+    colorlinks=true,
+    linkcolor=yellow,
+    filecolor=magenta, 
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\begin{document}
+\href{https://www.youtube.com/watch?v=nHK7b0v7fYU}{Garun a} \\
+\url{https://www.youtube.com/watch?v=XaEYCGhmAE4} \\
+\url{https://www.youtube.com/watch?v=vNePhmCMnbU}
+\end{document}
+```
+
+# Tables
+```latex
+\documentclass{article}
+
+\begin{document}
+% c - center, l - left, r - right
+% \hline - horizontal line
+% \vline - vertical line
+% & - column separator
+% \\ - row separator
+\begin{tabular}{|c|l|r} 
+    \hline
+    Column 1 & Column 2 & Column 3 \\ 
+    \hline
+    Row 1 & Row 1 & Row 1 \\ 
+    \hline
+    Row 2 & Row 2 & Row 2 \\ 
+    \hline
+\end{tabular}
+\end{document}
+```
+
+# Figures
+Try ctrl + v in Overleaf to upload an image.
+```latex
+\documentclass{article}
+\usepackage{graphicx} % add this line to the preamble
+
+\begin{document}
+
+\includegraphics{cheese.jpg}
+
+% scale the image to 50% of the text width
+\includegraphics[width=0.5\textwidth]{cheese.jpg} 
+
+\end{document}
+```
+
+# Figure/tables with caption and label
+```latex
+\usepackage{graphicx} % add this line to the preamble
+
+\begin{document}
+% image
+\begin{figure}[h] % [h] - place the figure here
+    \centering
+    \includegraphics[width=0.5\textwidth]{cheese.jpg}
+    \caption{This is a caption for the figure.}
+    \label{fig:cheese} % label for referencing the figure
+\end{figure}
+
+% table
+\begin{table}[h] % [h] - place the table here
+    \centering
+    \begin{tabular}{|c|c|}
+        \hline
+        Column 1 & Column 2 \\ 
+        \hline
+        Row 1 & Row 1 \\ 
+        \hline
+        Row 2 & Row 2 \\ 
+        \hline
+    \end{tabular}
+    \caption{This is a caption for the table.}
+    \label{tab:cheese} % label for referencing the table
+\end{table}
+\end{document}
+```
+# References
+```latex
+% \ref{label} - reference to a figure, table, or section
+% \pageref{label} - page number of the referenced label
+% \cite{label} - reference to a bibliography entry
+\section{Introduction}
+\label{sec:intro}
+This is the introduction section.
+
+\begin{figure}[h] % [h] - place the figure here
+    \centering
+    \includegraphics[width=0.5\textwidth]{cheese.jpg}
+    \caption{This is a caption for the figure.}
+    \label{fig:cheese} % label for referencing the figure
+\end{figure}
+
+\section{Conclusion}
+See Section \ref{sec:intro} for more information.
+Cheese is shown in Figure \ref{fig:cheese}.
+```
+
+# Bibliography
+See [here](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) 
+
+# Math
+```latex
+\documentclass{article}
+
+\usepackage{amsmath} % american mathematical society
+\usepackage{amsthm} % ams theorem
+
+\begin{document}
+
+Inline math: $E = mc^2$ \\
+Display math:
+\begin{equation} % numbered equation
+    E = mc^2
+\end{equation}
+
+\begin{equation*} % unnumbered equation
+    E = mc^2
+    \label{eq:einstein} % label for referencing the equation
+\end{equation*}
+
+\begin{align} % aligned equations
+    E &= mc^2 \\
+    F &= ma
+\end{align}
+
+\begin{case} % case environment
+    \text{if } x < 0 & \text{ then } f(x) = -x \\
+    \text{if } x \geq 0 & \text{ then } f(x) = x
+\end{case}
+
+\begin{itemize}
+    \item $\frac{a}{b}$ - fraction, $\dfrac{a}{b}$ - makes bigger
+    \item $\sqrt{a}$ - square root, $\sqrt[n]{a}$ - n-th root   
+    \item Letters - $\alpha$, $\beta$, $\Alpha$, $\Beta$, for space - $\quad$
+    \item Superscript - $a^b$, subscript - $a_b$
+    \item $\sum_{i=1}^{n} i$ - summation, $\prod_{i=1}^{n} i$ - product
+    \item $\int_{a}^{b} f(x) dx$ - integral
+    \item $\lim_{x \to 0} f(x)$ - limit
+    \item $\infty$ - infinity
+    \item $\forall$ - for all, $\exists$ - there exists
+    \item $\nabla$ - nabla, $\partial$ - partial derivative
+    \item $\vec{a}$ - vector, $\hat{a}$ - unit vector
+    \item $\cdot$ - dot product, $\times$ - cross product
+    \item $\cup$ - union, $\cap$ - intersection
+    \item $\subset$ - subset, $\supset$ - superset
+    \item $\in$ - element of, $\notin$ - not an element of
+    \item $\approx$ - approximately equal to, $\sim$ - similar to
+    \item $\leq$ - less than or equal to, $\geq$ - greater than or equal to
+\end{itemize}
+
+Matrices
+\[
+% pmatrix - round brackets, bmatrix - square brackets, vmatrix - vertical lines
+    A = \begin{pmatrix} 
+        a_{11} & a_{12} \\
+        a_{21} & a_{22}
+    \end{pmatrix}
+\]
+
+Vectors
+\[
+    \vec{v} = \begin{pmatrix} 
+        v_1 \\
+        v_2 \\
+        v_3
+    \end{pmatrix}
+\end{document}
+```
+
+
+# Custom 
+## Custom math operators
+```latex
+\documentclass{article}
+\usepackage{amsmath} % american mathematical society
+\usepackage{amsthm} % ams theorem
+
+\DeclareMathOperator{\R}{\mathbb{R}} % declare a new math operator
+\DeclareMathOperator{\Z}{\mathbb{Z}} % declare a new math operator
+\DeclareMathOperator{\vA}{\vec{A}} % declare a new math operator
+
+% math operator with input
+\newcommand{\pd}[2]{\frac{\partial #1}{\partial #2}} % partial derivative
+
+
+\begin{document}
+Pretty R - $\R$ \\
+cosh - $\cosh$ \\
+Vector A - $\vA$ \\
+Partial derivative - $\pd{f}{x}$ \\ 
+\end{document}
+```
+
+## Custom environments
+```latex
+\documentclass{article}
+\usepackage{amsmath} % american mathematical society
+\usepackage{amsthm} % ams theorem
+
+\newenvironment{sol}{
+    \textbf{\textcolor{cyan}{\textbf{Solution is ->}}}
+}
+\begin{document}
+
+\begin{sol}
+    This is a solution.
+\end{sol}
+\end{document}
+```
+
+## Custom theorem
+```latex
+\documentclass{article}
+\usepackage{amsmath} % american mathematical society
+
+\usepackage{amsthm} % ams theorem
+\newtheorem{theorem}{Theorem}[section] % theorem environment
+\newtheorem{lemma}[theorem]{Lemm} % lemma environment
+\newtheorem{corollary}[theorem]{Lracum} % corollary environment
+\newtheorem{proposition}[theorem]{Prop} % proposition environment
+\newtheorem{definition}[theorem]{Definition} % definition environment
+\newtheorem{example}[theorem]{Example} % example environment
+\newtheorem{remark}[theorem]{Remark} % remark environment
+\newtheorem{exercise}[theorem]{Exercise} % exercise environment
+
+\begin{document}
+\begin{theorem}
+    This is a theorem.
+\end{theorem}
+\begin{lemma}
+    This is a lemma.
+\end{lemma}
+
+\end{document}
+```
+
+# Armenian
+```latex	
+\documentclass{article}
+\usepackage{armtex}
+
+\begin{document}
+Պանիր։ Cheese
+\end{document}
+```
+
+
+# TikZ (plots, figures, etc.)
+[Great video](https://www.youtube.com/watch?v=5jmIHOWpEg0&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&index=6&t=638s)
+```latex
+\documentclass{article}
+\usepackage{tikz} % add this line to the preamble
+\usepackage{pgfplots} % add this line to the preamble
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[
+        title={Comparison of Polynomial Functions},
+        xlabel={$x$},
+        ylabel={$y$},
+        xmin=-3, xmax=3,
+        ymin=-5, ymax=15,
+        grid=both,
+        legend pos=north west,
+        axis lines=middle,
+        ]
+        \addplot[color=red, thick, domain=-3:3, samples=100] {x^2}; 
+        \addplot[color=blue, dashed, mark=*, mark size=1pt, domain=-3:3, samples=50] {x^3};
+        \legend{$x^2$, $x^3$}
+    \end{axis}
+\end{tikzpicture}
+\end{document}
+```
+# Slides (beamer)
+[Docs](https://www.overleaf.com/learn/latex/Beamer), [Video](https://www.youtube.com/watch?v=rx7wwtmFlD8&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&index=9)
+
+
+```latex
+\documentclass{beamer} % use beamer class for slides
+\usetheme{Madrid} % choose a theme, see https://www.overleaf.com/learn/latex/Beamer#Themes
+
+\begin{document}
+\begin{frame}{Title of the slide}
+    This is my first slide in LaTeX.
+    \pause
+    \begin{itemize}
+        \item First item
+        \item Second item
+        \item Third item
+    \end{itemize}
+\end{frame}
+\end{document}
+```
+
+# Extra
+Custom page size
+```latex
+\usepackage{geometry}
+\geometry{
+a4paper,
+total={155mm,257mm},
+left=25mm,
+top=20mm,
+}
+```
+
+Custom font size
+```latex
+\documentclass[12pt]{article} % 10pt, 11pt, 12pt
+```
+
+Multicolumn
+```latex
+\usepackage{multicol} % add this line to the preamble
+\begin{document}
+\begin{multicols}{2} % 2 columns
+    This is the first column.
+    \columnbreak % break to the next column
+    This is the second column.
+\end{multicols}
+\end{document}
+
+You can also split the code into multiple files, see [here](https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects)
+```

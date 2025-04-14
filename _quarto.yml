@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Random"
+  repo-url: "https://github.com/HaykTarkhanyan/random"
+  description: "No idea what will be here"
+  repo-actions: [edit]
+  # downloads: [pdf]
+  chapters:
+    - index.qmd
+    - part: LaTeX
+      chapters:
+      - file: latex_tutorial/intro.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo   # light mode theme
+      dark: darkly   # dark mode theme
+    dark-mode-toggle: true
+    dark-mode-toggle-position: right
+    toc: true
+    toc-location: right
+    number-sections: true
+    number-sections-by-file: true
+
+    # Use lowercase for boolean settings
+    code-fold: false
+
+    highlight-style: github
+
+execute:
+  enabled: false
+  freeze: auto
