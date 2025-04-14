@@ -11,6 +11,7 @@ title: "Introduction to LaTeX"
 **Very good ones:**
 - [Overleaf Learning materials](https://www.overleaf.com/learn), [Learn in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+- [💅Elegant LaTeX 💅](https://www.math.uci.edu/~remote_teaching/uci-books/documentation/elegantbook-en.pdf)
 - [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
 
 **Screenshot/pdf to LaTeX:**
