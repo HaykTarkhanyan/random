@@ -504,3 +504,7 @@ Multicolumn
 
 You can also split the code into multiple files, see [here](https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects)
 ```
+
+```{=html}
+<a href="https://www.flagcounter.me/details/fM5"><img src="https://www.flagcounter.me/fM5/" alt="Flag Counter"></a>
+```

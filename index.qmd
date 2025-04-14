@@ -28,3 +28,7 @@ title: "Random"
 10-րդ հարկից - Աաաաա՜, դը'խկ, \\
 1-ին հարկից - Դը'խկ, աաաաա՜
 </details>
+
+```{=html}
+<a href="https://www.flagcounter.me/details/fM5"><img src="https://www.flagcounter.me/fM5/" alt="Flag Counter"></a>
+```
