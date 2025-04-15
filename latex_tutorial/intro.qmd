@@ -9,29 +9,33 @@ title: "Introduction to LaTeX"
 
 # Resources:
 **Very good ones:**
-- [Overleaf Learning materials](https://www.overleaf.com/learn), [Learn in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-- [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
-- [💅Elegant LaTeX 💅](https://www.math.uci.edu/~remote_teaching/uci-books/documentation/elegantbook-en.pdf)
-- [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
-- [Հայերեն LaTeX Overlaf-ում, վիդեո](https://youtu.be/ATk8CJ4OxUU?si=wT5_uK8LaO7Isss4)
+
+* [Overleaf Learning materials](https://www.overleaf.com/learn), [Learn in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+* [🔥Great Playlist 🔥](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+* [💅Elegant LaTeX 💅](https://www.math.uci.edu/~remote_teaching/uci-books/documentation/elegantbook-en.pdf)
+* [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - Comprehensive LaTeX guide
+* [Հայերեն LaTeX Overlaf-ում, վիդեո](https://youtu.be/ATk8CJ4OxUU?si=wT5_uK8LaO7Isss4)
 
 **Screenshot/pdf to LaTeX:**
-- [Mathpix Snip](https://mathpix.com/) - Very good one, but free is limited (but it's also not super expensive)
-- [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - Open source
+
+* [Mathpix Snip](https://mathpix.com/) - Very good one, but free is limited (but it's also not super expensive)
+* [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - Open source
 
 **General links:**
-- [Overleaf](https://www.overleaf.com/) - Online LaTeX editor
-- [Official LaTeX website](https://www.latex-project.org/)
-- [TeX Stack Exchange](https://tex.stackexchange.com/) - Q&A forum for LaTeX users
-- [CTAN](https://www.ctan.org/) - Comprehensive TeX Archive Network
-- Symbol collections [1](https://wch.github.io/latexsheet), [2](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
-- [Symbol detection tool](http://detexify.kirelabs.org/classify.html)
-- [LaTeX Templates](https://www.latextemplates.com/)
+
+* [Overleaf](https://www.overleaf.com/) - Online LaTeX editor
+* [Official LaTeX website](https://www.latex-project.org/)
+* [TeX Stack Exchange](https://tex.stackexchange.com/) - Q&A forum for LaTeX users
+* [CTAN](https://www.ctan.org/) - Comprehensive TeX Archive Network
+* Symbol collections [1](https://wch.github.io/latexsheet), [2](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
+* [Symbol detection tool](http://detexify.kirelabs.org/classify.html)
+* [LaTeX Templates](https://www.latextemplates.com/)
 
 **Project examples in Armenian:**
-- [Խառը, օգտակար](https://www.dropbox.com/scl/fi/uhkeefmvnfwjtzkfn0754/main.tex?rlkey=uzcojsh8ru7hefp0ii2c0h7mt&e=1&dl=0)
-- [Տոպոլոգիա](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
-- [Դիսկրետ գործնական](https://www.overleaf.com/read/gftfchfrcgjh#bb5f43)
+
+* [Խառը, օգտակար](https://www.dropbox.com/scl/fi/uhkeefmvnfwjtzkfn0754/main.tex?rlkey=uzcojsh8ru7hefp0ii2c0h7mt&e=1&dl=0)
+* [Տոպոլոգիա](https://www.overleaf.com/read/jcwpcmfmkgrc#25ef2a)
+* [Դիսկրետ գործնական](https://www.overleaf.com/read/gftfchfrcgjh#bb5f43)
 
 
 

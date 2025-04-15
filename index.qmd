@@ -21,12 +21,21 @@ title: "Random"
 2. Էշ մի սատկի, գարուն ա գալիս
 3. Էշը ցեխից հանել
 4. Էշի ականջին քնած
+5. Էշն ինչ գիտի նուշը ինչ ա։ս
 </details>
 
 <details>
 <summary>1-ին և 10-րդ հարկերից ընկնելու տարբերությունը`</summary>
 10-րդ հարկից - Աաաաա՜, դը'խկ, \\
 1-ին հարկից - Դը'խկ, աաաաա՜
+</details>
+
+<details>
+<summary>Կարգին հաղորդում, quiz-եր</summary>
+1. https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform
+2. https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform
+3. https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform
+4. https://docs.google.com/forms/d/e/1FAIpQLSe_3NBgJwXichYb1b9dyyzye-8MWgcyJNKYTSCdVbYDlhM8aA/viewform 
 </details>
 
 ```{=html}
