@@ -91,7 +91,7 @@
     "href": "latex_tutorial/intro.html#custom-math-operators",
     "title": "2  Introduction to LaTeX",
     "section": "17.1 Custom math operators",
-    "text": "17.1 Custom math operators\n\\documentclass{article}\n\\usepackage{amsmath} % american mathematical society\n\\usepackage{amsthm} % ams theorem\n\n\\DeclareMathOperator{\\R}{\\mathbb{R}} % declare a new math operator\n\\DeclareMathOperator{\\Z}{\\mathbb{Z}} % declare a new math operator\n\\DeclareMathOperator{\\vA}{\\vec{A}} % declare a new math operator\n\n% math operator with input\n\\newcommand{\\pd}[2]{\\frac{\\partial #1}{\\partial #2}} % partial derivative\n\n\n\\begin{document}\nPretty R - $\\R$ \\\\\ncosh - $\\cosh$ \\\\\nVector A - $\\vA$ \\\\\nPartial derivative - $\\pd{f}{x}$ \\\\ \n\\end{document}",
+    "text": "17.1 Custom math operators\n\\documentclass{article}\n\\usepackage{amsmath} % american mathematical society\n\\usepackage{amsthm} % ams theorem\n\\usepackage{amssymb} % ams symbols (for \\mathbb)\n\n\\DeclareMathOperator{\\R}{\\mathbb{R}} % declare a new math operator\n\\DeclareMathOperator{\\Z}{\\mathbb{Z}} % declare a new math operator\n\\DeclareMathOperator{\\vA}{\\vec{A}} % declare a new math operator\n\n% math operator with input\n\\newcommand{\\pd}[2]{\\frac{\\partial #1}{\\partial #2}} % partial derivative\n\n\n\\begin{document}\nPretty R - $\\R$ \\\\\ncosh - $\\cosh$ \\\\\nVector A - $\\vA$ \\\\\nPartial derivative - $\\pd{f}{x}$ \\\\ \n\\end{document}",
     "crumbs": [
       "LaTeX",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to LaTeX</span>"

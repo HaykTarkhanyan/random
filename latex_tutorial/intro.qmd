@@ -7,6 +7,10 @@ title: "Introduction to LaTeX"
 Եթե անգլից լավ եք էս նյութը ու վիդեոն կարաք զուտ բաց թողեք, դրած հղումներում շատ ավելի լավ ա բացատրվում։ Կարաք նաև ռուսերենով լիքը նյութեր գտնեք Google, YouTube-ում։
 ::: 
 
+::: {.callout-tip}
+Էս նյութը ծածկող [տեսադասը(ToDo)]()
+::: 
+
 # Resources:
 **Very good ones:**
 
@@ -152,6 +156,9 @@ This is a quote.
 # Text formatting
 ```latex
 \documentclass{article}
+\usepackage{xcolor}
+
+
 \begin{document}
 % cntl b, cntl i, cntl u
 % \\ - new line
@@ -355,6 +362,7 @@ Vectors
 \documentclass{article}
 \usepackage{amsmath} % american mathematical society
 \usepackage{amsthm} % ams theorem
+\usepackage{amssymb} % ams symbols (for \mathbb)
 
 \DeclareMathOperator{\R}{\mathbb{R}} % declare a new math operator
 \DeclareMathOperator{\Z}{\mathbb{Z}} % declare a new math operator

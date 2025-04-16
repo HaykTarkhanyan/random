@@ -251,6 +251,19 @@ Note
 <p>Եթե անգլից լավ եք էս նյութը ու վիդեոն կարաք զուտ բաց թողեք, դրած հղումներում շատ ավելի լավ ա բացատրվում։ Կարաք նաև ռուսերենով լիքը նյութեր գտնեք Google, YouTube-ում։</p>
 </div>
 </div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Էս նյութը ծածկող <a href="">տեսադասը(ToDo)</a></p>
+</div>
+</div>
 </section>
 <section id="resources" class="level1" data-number="4">
 <h1 data-number="4"><span class="header-section-number">4</span> Resources:</h1>
@@ -391,17 +404,20 @@ Note
 <section id="text-formatting" class="level1" data-number="9">
 <h1 data-number="9"><span class="header-section-number">9</span> Text formatting</h1>
 <div class="sourceCode" id="cb11"><pre class="sourceCode latex code-with-copy"><code class="sourceCode latex"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="bu">\documentclass</span>{<span class="ex">article</span>}</span>
-<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
-<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="co">% cntl b, cntl i, cntl u</span></span>
-<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a><span class="co">% \\ - new line</span></span>
-<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="fu">\textbf</span>{Bold text} <span class="fu">\\</span></span>
-<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a><span class="fu">\textit</span>{Italic text} <span class="fu">\\</span></span>
-<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="fu">\underline</span>{Underlined text} <span class="fu">\\</span></span>
-<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a><span class="fu">\textcolor</span>{red}{Red text} <span class="fu">\\</span></span>
-<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a><span class="fu">\textcolor</span>{blue}{<span class="fu">\textbf</span>{Bold blue text}} <span class="fu">\\</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">xcolor</span>}</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a><span class="co">% cntl b, cntl i, cntl u</span></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="co">% \\ - new line</span></span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a><span class="fu">\textbf</span>{Bold text} <span class="fu">\\</span></span>
+<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a><span class="fu">\textit</span>{Italic text} <span class="fu">\\</span></span>
+<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a><span class="fu">\underline</span>{Underlined text} <span class="fu">\\</span></span>
 <span id="cb11-11"><a href="#cb11-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a><span class="fu">\textcolor</span>{red}{Red text} <span class="fu">\\</span></span>
+<span id="cb11-13"><a href="#cb11-13" aria-hidden="true" tabindex="-1"></a><span class="fu">\textcolor</span>{blue}{<span class="fu">\textbf</span>{Bold blue text}} <span class="fu">\\</span></span>
+<span id="cb11-14"><a href="#cb11-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-15"><a href="#cb11-15" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="hyperlinks" class="level1" data-number="10">
 <h1 data-number="10"><span class="header-section-number">10</span> Hyperlinks</h1>
@@ -589,21 +605,22 @@ Note
 <div class="sourceCode" id="cb18"><pre class="sourceCode latex code-with-copy"><code class="sourceCode latex"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="bu">\documentclass</span>{<span class="ex">article</span>}</span>
 <span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">amsmath</span>} <span class="co">% american mathematical society</span></span>
 <span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">amsthm</span>} <span class="co">% ams theorem</span></span>
-<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\R</span>}{<span class="fu">\mathbb</span>{R}} <span class="co">% declare a new math operator</span></span>
-<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\Z</span>}{<span class="fu">\mathbb</span>{Z}} <span class="co">% declare a new math operator</span></span>
-<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\vA</span>}{<span class="fu">\vec</span>{A}} <span class="co">% declare a new math operator</span></span>
-<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a><span class="co">% math operator with input</span></span>
-<span id="cb18-10"><a href="#cb18-10" aria-hidden="true" tabindex="-1"></a><span class="fu">\newcommand</span>{<span class="ex">\pd</span>}[2]{<span class="fu">\frac</span>{<span class="fu">\partial</span> #1}{<span class="fu">\partial</span> #2}} <span class="co">% partial derivative</span></span>
-<span id="cb18-11"><a href="#cb18-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">amssymb</span>} <span class="co">% ams symbols (for \mathbb)</span></span>
+<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\R</span>}{<span class="fu">\mathbb</span>{R}} <span class="co">% declare a new math operator</span></span>
+<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\Z</span>}{<span class="fu">\mathbb</span>{Z}} <span class="co">% declare a new math operator</span></span>
+<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a><span class="fu">\DeclareMathOperator</span>{<span class="fu">\vA</span>}{<span class="fu">\vec</span>{A}} <span class="co">% declare a new math operator</span></span>
+<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-10"><a href="#cb18-10" aria-hidden="true" tabindex="-1"></a><span class="co">% math operator with input</span></span>
+<span id="cb18-11"><a href="#cb18-11" aria-hidden="true" tabindex="-1"></a><span class="fu">\newcommand</span>{<span class="ex">\pd</span>}[2]{<span class="fu">\frac</span>{<span class="fu">\partial</span> #1}{<span class="fu">\partial</span> #2}} <span class="co">% partial derivative</span></span>
 <span id="cb18-12"><a href="#cb18-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb18-13"><a href="#cb18-13" aria-hidden="true" tabindex="-1"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
-<span id="cb18-14"><a href="#cb18-14" aria-hidden="true" tabindex="-1"></a>Pretty R - <span class="ss">$</span><span class="sc">\R</span><span class="ss">$</span> <span class="fu">\\</span></span>
-<span id="cb18-15"><a href="#cb18-15" aria-hidden="true" tabindex="-1"></a>cosh - <span class="ss">$</span><span class="sc">\cosh</span><span class="ss">$</span> <span class="fu">\\</span></span>
-<span id="cb18-16"><a href="#cb18-16" aria-hidden="true" tabindex="-1"></a>Vector A - <span class="ss">$</span><span class="sc">\vA</span><span class="ss">$</span> <span class="fu">\\</span></span>
-<span id="cb18-17"><a href="#cb18-17" aria-hidden="true" tabindex="-1"></a>Partial derivative - <span class="ss">$</span><span class="sc">\pd</span><span class="ss">{f}{x}$</span> <span class="fu">\\</span> </span>
-<span id="cb18-18"><a href="#cb18-18" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb18-13"><a href="#cb18-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-14"><a href="#cb18-14" aria-hidden="true" tabindex="-1"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
+<span id="cb18-15"><a href="#cb18-15" aria-hidden="true" tabindex="-1"></a>Pretty R - <span class="ss">$</span><span class="sc">\R</span><span class="ss">$</span> <span class="fu">\\</span></span>
+<span id="cb18-16"><a href="#cb18-16" aria-hidden="true" tabindex="-1"></a>cosh - <span class="ss">$</span><span class="sc">\cosh</span><span class="ss">$</span> <span class="fu">\\</span></span>
+<span id="cb18-17"><a href="#cb18-17" aria-hidden="true" tabindex="-1"></a>Vector A - <span class="ss">$</span><span class="sc">\vA</span><span class="ss">$</span> <span class="fu">\\</span></span>
+<span id="cb18-18"><a href="#cb18-18" aria-hidden="true" tabindex="-1"></a>Partial derivative - <span class="ss">$</span><span class="sc">\pd</span><span class="ss">{f}{x}$</span> <span class="fu">\\</span> </span>
+<span id="cb18-19"><a href="#cb18-19" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="custom-environments" class="level2" data-number="17.2">
 <h2 data-number="17.2" class="anchored" data-anchor-id="custom-environments"><span class="header-section-number">17.2</span> Custom environments</h2>
