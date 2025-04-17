@@ -4,6 +4,8 @@ title: "Random"
 - Բուհական մաթեմատիկայի մի աշխարհ [նյութեր](https://mathteam.notion.site/)
 - Անվճար Python, մաթեմ, մեքենայական ուսուցման դասընթաց [YouTube](https://www.youtube.com/@MetricAcademy), [Կայք](https://hayktarkhanyan.github.io/python_math_ml_course/), [Telegam](https://t.me/metric_academy)
 - Հայ խմբեր/երաժիշտների [հավաքածու](https://docs.google.com/spreadsheets/d/1rMq3hJ4jcJ6t0G0rmsYICY7XmiLYM7hCxq58cD8XPyE/edit?gid=0#gid=0)
+- Հայաստանի տարբեր բառբառներով վիդեոների, երգերի, գրքեր և այլ նյութերի շատ ծավալուն [հավաքածու](https://www.reddit.com/r/armenia/comments/rz82tq/armenian_dialects_appreciation_post_%D5%B0%D5%A1%D5%B5%D6%80%D5%A5%D5%B6%D5%A5%D5%A1%D5%B6/?share_id=GtVtdAqusrCQWQATxR80i&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+- Հայերեն [ֆոնտեր](https://fonter.am/hy/fonts?sortby=popular)
 - https://www.youtube.com/watch?v=9DGNqnpMpbc
 
 <details>
@@ -21,7 +23,7 @@ title: "Random"
 2. Էշ մի սատկի, գարուն ա գալիս
 3. Էշը ցեխից հանել
 4. Էշի ականջին քնած
-5. Էշն ինչ գիտի նուշը ինչ ա։ս
+5. Էշն ինչ գիտի նուշը ինչ ա
 </details>
 
 <details>
@@ -31,7 +33,7 @@ title: "Random"
 </details>
 
 <details>
-<summary>Կարգին հաղորդում, quiz-եր</summary>
+<summary>Կարգին հաղորդում, quiz-ներ</summary>
 1. https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform
 2. https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform
 3. https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform
