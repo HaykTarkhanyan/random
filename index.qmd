@@ -6,7 +6,7 @@ title: "Random"
 - Հայ խմբեր/երաժիշտների [հավաքածու](https://docs.google.com/spreadsheets/d/1rMq3hJ4jcJ6t0G0rmsYICY7XmiLYM7hCxq58cD8XPyE/edit?gid=0#gid=0)
 - Հայաստանի տարբեր բառբառներով վիդեոների, երգերի, գրքեր և այլ նյութերի շատ ծավալուն [հավաքածու](https://www.reddit.com/r/armenia/comments/rz82tq/armenian_dialects_appreciation_post_%D5%B0%D5%A1%D5%B5%D6%80%D5%A5%D5%B6%D5%A5%D5%A1%D5%B6/?share_id=GtVtdAqusrCQWQATxR80i&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 - Հայերեն [ֆոնտեր](https://fonter.am/hy/fonts?sortby=popular)
-- https://www.youtube.com/watch?v=9DGNqnpMpbc
+- [https://www.youtube.com/watch?v=9DGNqnpMpbc](https://www.youtube.com/watch?v=9DGNqnpMpbc)
 
 <details>
 <summary>Ընտիր յութուբի ալիքների հայերեն թարգմանած վիդեոներ</summary>
@@ -17,6 +17,21 @@ title: "Random"
 5. 3blue1brown - [3blue1brown հայերեն](https://www.youtube.com/@3blue1brown12)
 </details>
 
+
+- Հայերեն ընտիր [վեբինարներ](https://www.youtube.com/watch?v=FUtc6NEtPWo) մի աշխարհ թեմաներով (Աշոտ Նաքաշյան)
+- Կոգնիտիվ հակումների մասին [կայք](https://keepsimple.io/hy/uxcore) նաև հայերենով ([գրառում](https://www.linkedin.com/feed/update/urn:li:activity:7319985758126104577/))
+- Հզոր/հայտնի հայերի մասին հետաքրքրոտ [բլոգ](https://www.aratherat.com/blogs/home-page?page=1)
+
+<details>
+<summary>Երևանի փողոցների անունների դոկ ([գրառումը](https://www.linkedin.com/posts/bakhshi99_your-connected-workspace-for-wiki-docs-activity-7308157790693326849-FFf2/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACfEEskB3jN4zsREH0BuleaNU40MOOLaNiw&utm_campaign=copy_link))</summary>
+- 📌 Ահա [լինքը](https://steadfast-salamander-ea8.notion.site/1b9caa439173808e9445cf0bc847f79a)
+- 📄 [PDF տարբերակը](https://drive.google.com/file/d/1HCY1uLiHClP_2gZDqKFmV6PqgembC0-1/view?usp=sharing)
+- 🗺 [Քարտեզը](https://yandex.eu/maps/?ll=44.726270%2C40.268065&mode=usermaps&source=constructorLink&um=constructor%3A122e61f1134fd17bfa7543b9dd28c2d4f7322d4f7aa7c1a3d5fc3d992a50c216&z=11)
+- 📄 [PDF տարբերակը նկարներով](https://drive.google.com/file/d/1lNGP96qAdIm_FWn73HmWITvbaDBaMs8e/view) (պետք է ներբեռնեք)
+</details>
+
+
+
 <details>
 <summary>🫏-ի հետ կապված ասացվածքներ</summary>
 1. Էշը կերել, պոչը մնացել
@@ -24,20 +39,36 @@ title: "Random"
 3. Էշը ցեխից հանել
 4. Էշի ականջին քնած
 5. Էշն ինչ գիտի նուշը ինչ ա
+6. Էշ ա, բայց դե մեր էշն ա
 </details>
 
 <details>
+<summary>ոչ միայն 🫏-ի հետ կապված ասացվածքներ</summary>
+[**հավաքածու**](https://hy.m.wikiquote.org/wiki/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%BC%D5%A1%D5%AE%D5%B6%D5%A5%D6%80#top)
+
+1. Մի ծաղկով գարուն չի գա
+2. Ուրիշի հարսի տուտուզով փեսուն լավություն անել  
+3. Մտնել մատի ու մատանու արանքը
+</details>
+
+<details>
+<summary>Հայերենի հետ կապված հետաքրքիր/տարօրինակ բաներ/բառեր</summary>
+1. "Վաղը չէ մյուս օրը" - not tomorrow but the day after
+</details>
+
+
+<details>
 <summary>1-ին և 10-րդ հարկերից ընկնելու տարբերությունը`</summary>
-10-րդ հարկից - Աաաաա՜, դը'խկ, \\
+10-րդ հարկից - Աաաաա՜, դը'խկ,  
 1-ին հարկից - Դը'խկ, աաաաա՜
 </details>
 
 <details>
 <summary>Կարգին հաղորդում, quiz-ներ</summary>
-1. https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform
-2. https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform
-3. https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform
-4. https://docs.google.com/forms/d/e/1FAIpQLSe_3NBgJwXichYb1b9dyyzye-8MWgcyJNKYTSCdVbYDlhM8aA/viewform 
+1. [1](https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform)
+2. [2](https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform)
+3. [3](https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform)
+4. [4](https://docs.google.com/forms/d/e/1FAIpQLSe_3NBgJwXichYb1b9dyyzye-8MWgcyJNKYTSCdVbYDlhM8aA/viewform)
 </details>
 
 ```{=html}
