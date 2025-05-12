@@ -1,6 +1,9 @@
 ---
 title: "Random" 
 ---
+
+Եթե Աստված գիտի խի էս կայքն եք նայում, ու ինչ-որ բան ա մտքներովդ անցնում որ կարելի ա ավելացնել կարաս [էս](https://forms.gle/t7vc8Q75BiNV7NNj6) գուգլ ֆոռմում լրացնեք
+
 - Բուհական մաթեմատիկայի մի աշխարհ [նյութեր](https://mathteam.notion.site/)
 - Անվճար Python, մաթեմ, մեքենայական ուսուցման դասընթաց [YouTube](https://www.youtube.com/@MetricAcademy), [Կայք](https://hayktarkhanyan.github.io/python_math_ml_course/), [Telegam](https://t.me/metric_academy)
 - Հայ խմբեր/երաժիշտների [հավաքածու](https://docs.google.com/spreadsheets/d/1rMq3hJ4jcJ6t0G0rmsYICY7XmiLYM7hCxq58cD8XPyE/edit?gid=0#gid=0)
@@ -54,6 +57,7 @@ title: "Random"
 <details>
 <summary>Հայերենի հետ կապված հետաքրքիր/տարօրինակ բաներ/բառեր</summary>
 1. "Վաղը չէ մյուս օրը" - not tomorrow but the day after
+2. Թրաշով ու անթրաշը նույն բանն են նշանակում։ Նաև "կլպած" ու "անկպլեպ"-ը բայց էդ նենց եսիմինչ չի։ս
 </details>
 
 
