@@ -24,6 +24,7 @@ title: "Random"
 - Հայերեն ընտիր [վեբինարներ](https://www.youtube.com/watch?v=FUtc6NEtPWo) մի աշխարհ թեմաներով (Աշոտ Նաքաշյան)
 - Կոգնիտիվ հակումների մասին [կայք](https://keepsimple.io/hy/uxcore) նաև հայերենով ([գրառում](https://www.linkedin.com/feed/update/urn:li:activity:7319985758126104577/))
 - Հզոր/հայտնի հայերի մասին հետաքրքրոտ [բլոգ](https://www.aratherat.com/blogs/home-page?page=1)
+- Նոբելյան մրցանակներ ներկայացնող YouTube ալիք - [Nobel Prizes](https://www.youtube.com/@nobelprizes)
 
 <details>
 <summary>Երևանի փողոցների անունների դոկ ([գրառումը](https://www.linkedin.com/posts/bakhshi99_your-connected-workspace-for-wiki-docs-activity-7308157790693326849-FFf2/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACfEEskB3jN4zsREH0BuleaNU40MOOLaNiw&utm_campaign=copy_link))</summary>
@@ -33,6 +34,11 @@ title: "Random"
 - 📄 [PDF տարբերակը նկարներով](https://drive.google.com/file/d/1lNGP96qAdIm_FWn73HmWITvbaDBaMs8e/view) (պետք է ներբեռնեք)
 </details>
 
+<details>
+<summary>Խառը օգտակար գործիքներ</summary>
+1. Իրոքից անվճար [background remover](https://www.photiu.ai/background-remover)
+2. [Markdown to PDF](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/)
+</details>
 
 
 <details>
@@ -52,10 +58,22 @@ title: "Random"
 1. Մի ծաղկով գարուն չի գա
 2. Ուրիշի հարսի տուտուզով փեսուն լավություն անել  
 3. Մտնել մատի ու մատանու արանքը
+4. Իմ սև սիրտ քո վարդագույն տռուսիկ
+5. Կարմիր կովը կաշին չի փոխում
+6. Ոչմի լավ գործ անպատիժ չի մնում
+</details>
+
+<details>
+<summary>Գարուն/աշուն բառերը պարունակող գործեր</summary>
+
+1. [Կոմիտաս, դաշնամուր, գարուն ա]()
+2. [Արաքս - Կոմիտաս, գարուն ա](https://youtu.be/x8lKHFaWFWs?si=RNHArnbV18jqOa99)
+3. 
 </details>
 
 <details>
 <summary>Հայերենի հետ կապված հետաքրքիր/տարօրինակ բաներ/բառեր</summary>
+
 1. "Վաղը չէ մյուս օրը" - not tomorrow but the day after
 2. Թրաշով ու անթրաշը նույն բանն են նշանակում։ Նաև "կլպած" ու "անկպլեպ"-ը բայց էդ նենց եսիմինչ չի։ս
 </details>
