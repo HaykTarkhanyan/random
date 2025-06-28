@@ -99,3 +99,26 @@ title: "Random"
 ```{=html}
 <a href="https://www.flagcounter.me/details/fM5"><img src="https://www.flagcounter.me/fM5/" alt="Flag Counter"></a>
 ```
+<details>
+<summary>Կարգին հաղորդում, quiz-ներ</summary>
+1. [1](https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform)
+2. [2](https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform)
+3. [3](https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform)
+4. [4](https://docs.google.com/forms/d/e/1FAIpQLSe_3NBgJwXichYb1b9dyyzye-8MWgcyJNKYTSCdVbYDlhM8aA/viewform)
+</details>
+
+<details>
+<summary>Արշավ լիստ</summary>
+
+[] 1. Ջուր 1.5 լիտր
+[] 2. եթև, չաղի սնունդ (բրդուջ-մրդուջ, պոպոկ-մոպոկ, խնձոր-մնձոր, բանան-մանան)
+[] 3. Անձրևիկ
+[] 4. Արևապաշտպան կռեմ
+[] 5. Եթե լիճ կա՝ պլավկի, սրբիչ
+[] 6. Ֆանարիկ, սվիստոկ
+[] 7. Սանտավիկ, ադվիլ, պեռեկիսь
+[] 8. Նասկի
+[] 9. Գլխարկ
+[] 10. Արևային ակնող
+[] 11. Powerbank
+</details>
