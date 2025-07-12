@@ -13,21 +13,37 @@ title: "Random"
 
 <details>
 <summary>Ընտիր յութուբի ալիքների հայերեն թարգմանած վիդեոներ</summary>
+
 1. Veritasium-ի վիդեոները հայերենով - [Բանական](https://www.youtube.com/@banakan.science)
 2. TedEd և ոչ միայն - [Գիտադարան](https://www.youtube.com/@gitadarann/videos)
-3. ScienceClic և ոչ միայն - [Aree](https://www.youtube.com/@areeeducationalcenter)
-4. Խառը - [Հետաքրքիրը հայերենով](https://www.youtube.com/@interestinginArmenian)
-5. 3blue1brown - [3blue1brown հայերեն](https://www.youtube.com/@3blue1brown12)
+3. TedEd և ոչ միայն (ԱԲ փոդքասթ) - [Cassette](https://www.youtube.com/@casseteai/videos)
+4. ScienceClic և ոչ միայն - [Aree](https://www.youtube.com/@areeeducationalcenter)
+5. Խառը - [Հետաքրքիրը հայերենով](https://www.youtube.com/@interestinginArmenian)
+6. 3blue1brown - [3blue1brown հայերեն](https://www.youtube.com/@3blue1brown12)
 </details>
 
 - [Ուղեղամպրոպ](https://www.youtube.com/@UgheghAmprop)
 - [Բողկ](https://www.youtube.com/@%D5%A2%D5%B8%D5%B2%D5%AF)
-
+- [Գրահավաք](https://www.grahavak.com/)
 
 - Հայերեն ընտիր [վեբինարներ](https://www.youtube.com/watch?v=FUtc6NEtPWo) մի աշխարհ թեմաներով (Աշոտ Նաքաշյան)
 - Կոգնիտիվ հակումների մասին [կայք](https://keepsimple.io/hy/uxcore) նաև հայերենով ([գրառում](https://www.linkedin.com/feed/update/urn:li:activity:7319985758126104577/))
 - Հզոր/հայտնի հայերի մասին հետաքրքրոտ [բլոգ](https://www.aratherat.com/blogs/home-page?page=1)
 - Նոբելյան մրցանակներ ներկայացնող YouTube ալիք - [Nobel Prizes](https://www.youtube.com/@nobelprizes)
+
+::: {.callout-note}
+# Փոդքասթներ
+
+1. [Krisp Kitchen](https://www.youtube.com/@krisp.kitchen)
+2. [Rearrange with Narek Amirkhanyan](https://www.youtube.com/@rearrange)
+3. [Ձի](https://www.youtube.com/@dzi.podcast5308)
+4. [Krisp Podcastle 10web - find url later]
+5. [MEM մարզ տեղափոխվել - find url later]
+
+:::
+
+
+- [Խուստուփ](https://www.facebook.com/reel/1066184332076395/?mibextid=rS40aB7S9Ucbxw6v)
 
 <details>
 <summary>Երևանի փողոցների անունների դոկ ([գրառումը](https://www.linkedin.com/posts/bakhshi99_your-connected-workspace-for-wiki-docs-activity-7308157790693326849-FFf2/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACfEEskB3jN4zsREH0BuleaNU40MOOLaNiw&utm_campaign=copy_link))</summary>
@@ -37,11 +53,14 @@ title: "Random"
 - 📄 [PDF տարբերակը նկարներով](https://drive.google.com/file/d/1lNGP96qAdIm_FWn73HmWITvbaDBaMs8e/view) (պետք է ներբեռնեք)
 </details>
 
-<details>
-<summary>Խառը օգտակար գործիքներ</summary>
-1. Իրոքից անվճար [background remover](https://www.photiu.ai/background-remover)
+{.::: {.callout-note}
+# Misc useful tools
+
+1. Truly free [background remover](https://www.photiu.ai/background-remover)
 2. [Markdown to PDF](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/)
-</details>
+3. Audio processing [tool](https://auphonic.com/landing) (2h free per month)
+4. [Youtube transcript generator](https://blogfox.ai/youtube-chapter-generator)
+:::
 
 
 <details>
@@ -64,6 +83,7 @@ title: "Random"
 4. Իմ սև սիրտ քո վարդագույն տռուսիկ
 5. Կարմիր կովը կաշին չի փոխում
 6. Ոչմի լավ գործ անպատիժ չի մնում
+7. Թան էլ չէ, փրթած մածուն
 </details>
 
 <details>
@@ -78,7 +98,7 @@ title: "Random"
 <summary>Հայերենի հետ կապված հետաքրքիր/տարօրինակ բաներ/բառեր</summary>
 
 1. "Վաղը չէ մյուս օրը" - not tomorrow but the day after
-2. Թրաշով ու անթրաշը նույն բանն են նշանակում։ Նաև "կլպած" ու "անկպլեպ"-ը բայց էդ նենց եսիմինչ չի։ս
+2. Թրաշով ու անթրաշը նույն բանն են նշանակում։ Նաև "կլպած" ու "անկպլեպ"-ը բայց էդ նենց եսիմինչ չի։
 </details>
 
 
@@ -89,11 +109,13 @@ title: "Random"
 </details>
 
 <details>
-<summary>Կարգին հաղորդում, quiz-ներ</summary>
+<summary>Կարգին հաղորդում, quiz-ներ, երաժշտություն</summary>
+
 1. [1](https://docs.google.com/forms/d/e/1FAIpQLSd99rjjFwKas8vIiVTdfkXuIYJblKN2qct-e05BztBMiT9M5Q/viewform)
 2. [2](https://docs.google.com/forms/d/e/1FAIpQLSeXV2r44kmyRNtMkaBxshS86ZHSVP_9Hft_E26Pkug3-ZhnNg/viewform)
 3. [3](https://docs.google.com/forms/d/e/1FAIpQLSfKV-wC1fh043B3UffO1qgLAITHXrRyutlrquZQMu7DIKtsHw/viewform)
 4. [4](https://docs.google.com/forms/d/e/1FAIpQLSe_3NBgJwXichYb1b9dyyzye-8MWgcyJNKYTSCdVbYDlhM8aA/viewform)
+5. [Երգերի փլեյլիստ](https://www.youtube.com/playlist?list=PL8sh2VJuXs-t-FQZ4OkeQdBCFqwJWCNQP)
 </details>
 
 ```{=html}
